@@ -1,6 +1,6 @@
 {
     "Breakfast":{
-        "Avocado Toast":
+        "Avocado Toast":0
 
     },
     "Dinner":{
@@ -17,9 +17,10 @@
                 " Dice the pork and cook untill golden brown color.",
                 " Lastly mix the salad, put the pork on the side and optionally add dressing on the salad."
             ]
-        }
+        },
+        "Pasta":0
     },
     "Supper":{
-
+        "Cereal":0
     }
 }
