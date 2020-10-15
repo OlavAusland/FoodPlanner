@@ -1,0 +1,25 @@
+{
+    "Breakfast":{
+        "Avocado Toast":
+
+    },
+    "Dinner":{
+        "Meat Salad":{
+            "Ingredients:":{
+                "Chives":"50g",
+                "Pork":"250g",
+                "Salad":"1/2 iceberg",
+                "Tomato":"4 small tomatoes",
+                "Dressing":"Garlic (optional)"
+            },
+            "Approach":[
+                "First fine chop the chives, tomato and salad.", 
+                " Dice the pork and cook untill golden brown color.",
+                " Lastly mix the salad, put the pork on the side and optionally add dressing on the salad."
+            ]
+        }
+    },
+    "Supper":{
+
+    }
+}
